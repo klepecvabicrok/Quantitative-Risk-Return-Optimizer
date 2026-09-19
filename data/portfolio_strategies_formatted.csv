@@ -1,0 +1,4 @@
+Strategy,Expected Return,Annual Volatility,Sharpe Ratio,CVaR 95% (Annual),Allocation
+Equal Weight,10.45%,17.94%,0.471,-42.44%,SPY: 25.0% | VGK: 25.0% | BND: 25.0% | QQQ: 25.0%
+Max Sharpe,16.72%,23.82%,0.617,-56.39%,SPY: 30.0% | VGK: 5.0% | BND: 5.0% | QQQ: 60.0%
+Min CVaR,4.44%,10.95%,0.223,-24.87%,SPY: 15.5% | VGK: 19.5% | BND: 60.0% | QQQ: 5.0%
