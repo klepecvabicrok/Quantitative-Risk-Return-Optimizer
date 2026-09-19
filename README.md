@@ -63,7 +63,8 @@ The project demonstrates an end-to-end quantitative workflow: fetching market da
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/klepecvabicrok/Quantitative-Risk-Return-Engine-2026.git
+   git clone https://github.com/klepecvabicrok/Quantitative-Risk-Return-Optimizer.git
+   
    cd Quantitative-Risk-Return-Engine-2026
    ```
 
